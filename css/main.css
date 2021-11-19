@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(252, 227, 230);
+}
+h1 {
+    background-color: rgb(187, 128, 139);
+    color: rgb(58, 51, 46);
+    text-transform: uppercase;
+}
+p {
+    background-color: seashell;
+    font-size: 20px;
+}
+p q {
+    color: rgb(73, 13, 13);
+}
+li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+ul li {
+    list-style: circle;
+    font-size: 20px;
+}
+li a {
+    color:rgb(68, 59, 53);
+    text-decoration: none;
+}
+hr {
+    color: rgb(187, 128, 139);
+}
