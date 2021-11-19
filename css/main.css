@@ -2,9 +2,10 @@ body {
     background-color: rgb(252, 227, 230);
 }
 h1 {
-    background-color: rgb(187, 128, 139);
+    background: linear-gradient(to bottom, rgb(187, 128, 139), rgb(252, 227, 230));
     color: rgb(58, 51, 46);
     text-transform: uppercase;
+    padding-top: 10px;
 }
 p {
     background-color: seashell;
@@ -24,6 +25,9 @@ ul li {
 li a {
     color:rgb(68, 59, 53);
     text-decoration: none;
+}
+li a:hover {
+    color:rgb(73, 13, 13);
 }
 hr {
     color: rgb(187, 128, 139);
