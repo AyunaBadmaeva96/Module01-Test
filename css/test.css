@@ -1,5 +1,5 @@
-
 body {
+    background-color: rgb(236, 236, 236);
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
 }
@@ -39,7 +39,7 @@ a:hover {
     color: lightgreen;
 }
 hr {
-    color: rgb(143, 141, 141);
+    color: lightgreen;
 }
 .box {
     display: flex;
@@ -58,6 +58,3 @@ footer {
     color: rgb(143, 141, 141);
     font-size: 13px;
 }
-
-Во всех заголовках (h1, h2, h3) буквы сделать заглавными и установить для них межбуквенный интервал в значении 0.5px
-Для всего сайта установить межстрочный интервал в значении 1.5 (подсказка: указать в body)
