@@ -37,16 +37,15 @@ ul li {
 }
 ul li:last-child {
     margin-right: 0px;
-    background-color: tomato;
 }
 a {
     color: rebeccapurple;
     font-weight: 700;
     text-decoration: none;
 }
-/*a:hover {
+a:hover {
     color: lightgreen;
-}*/
+}
 hr {
     color: lightgreen;
 }
